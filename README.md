@@ -1,5 +1,5 @@
 # UoBBio.github.io
-<div style="background: #003650; color: white;"><span style="font-family: verdana, geneva;"><img src="https://dratedder.github.io/UoBBio.github.io/Logo-reversed.svg" alt="Logo-reversed.svg" width="275" height="70" data-api-endpoint="https://dratedder.github.io/UoBBio.github.io//Logo-reversed.svg" data-api-returntype="File" />&nbsp; <br /></span></div>
+<div style="background: #003650; color: white;"><span style="font-family: verdana, geneva;"><img src="https://dratedder.github.io/UoBBio.github.io/Logo-reversed.svg/Preview" alt="Logo-reversed.svg" width="275" height="70" data-api-endpoint="https://dratedder.github.io/UoBBio.github.io//Logo-reversed.svg" data-api-returntype="File" />&nbsp; <br /></span></div>
 <div>&nbsp;</div>
 <div class="ic-image-text-combo" style="color: #ffffff; padding-left: 20px; background-color: #00a3e0;"><i class="icon-instructure"></i>
 <div class="ic-image-text-combo__text" style="padding-left: 20px; background-color: #003b49;">
